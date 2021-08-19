@@ -1,0 +1,1236 @@
+ENEMIES - CUSTOM LIST  
+Zelgius (5*+10 +spd)  
+Weapon: Alondite  
+Special: Black Luna  
+A: Steady Breath  
+B: Warp Powder  
+C: AR Far Save 3  
+S: Quick Riposte 3  
+  
+Zelgius (5*+10 +spd)  
+Weapon: Alondite  
+Special: Black Luna  
+A: Death Blow 4  
+B: Bold Fighter 3  
+S: Quick Riposte 3  
+  
+Zelgius (5*+10 +spd -res)  
+Weapon: Armorsmasher+  
+Special: Black Luna  
+A: Death Blow 4  
+B: Warp Powder  
+S: Quick Riposte 3  
+Upgrade Path: 2  
+  
+Zelgius (5*+10 +spd -res)  
+Weapon: Slaying Edge+  
+Special: Black Luna  
+A: Steady Breath  
+B: Warp Powder  
+S: Quick Riposte 3  
+Upgrade Path: 2  
+  
+Lissa (WE) (5*+10 +atk -res)  
+Weapon: Slaying Hammer+  
+Special: Aether  
+A: Death Blow 4  
+B: Bold Fighter 3  
+S: Quick Riposte 3  
+Upgrade Path: 1  
+  
+Hardin (FH) (5*+10 +atk -res)  
+Weapon: Gradivus  
+Special: Aether  
+A: Death Blow 4  
+B: Bold Fighter 3  
+S: Quick Riposte 3  
+  
+Robin(M) (WE) (5*+10 +res -def)  
+Weapon: Tannenboom!+  
+Special: Aether  
+A: Death Blow 4  
+B: Bold Fighter 3  
+C: Armor March 3  
+S: Quick Riposte 3  
+Upgrade Path: 2  
+  
+Robin(M) (WE) (5*+10 +res -def)  
+Weapon: Slaying Spear+  
+Special: Aether  
+A: Death Blow 4  
+B: Bold Fighter 3  
+C: Armor March 3  
+S: Quick Riposte 3  
+Upgrade Path: 2  
+  
+Robin(M) (WE) (5*+10 +res -def)  
+Weapon: Tannenboom!+  
+Special: Aether  
+A: Death Blow 4  
+B: Bold Fighter 3  
+C: Armor March 3  
+S: Quick Riposte 3  
+Upgrade Path: 2  
+  
+Fjorm (5*+10 +spd -def)  
+Weapon: Leiptr  
+Special: Aether  
+A: Death Blow 4  
+B: Chill Atk 3  
+C: Drive Atk 2  
+S: Atk Ploy 3  
+  
+Ryoma (SS) (5*+10 +atk -res)  
+Weapon: Armorsmasher+  
+Special: Aether  
+A: Death Blow 4  
+B: Bushido  
+C: Odd Atk Wave 3  
+Upgrade Path: 2  
+  
+Ike (VL) (5*+10 +atk -res)  
+Weapon: Ragnell  
+Special: Radiant Aether  
+A: Death Blow 4  
+B: Quick Riposte 3  
+C: Def Tactic 3  
+  
+Robin(F) (FV) (5*+10 +spd -hp)  
+Weapon: Expiration  
+Special: Aether  
+A: Dragonskin  
+B: Windsweep 3  
+C: Res Smoke 3  
+S: Close Def 3  
+  
+Gunnthra (5*+10 +spd -res)  
+Weapon: Blizzard  
+Special: Aether  
+A: Death Blow 4  
+B: Chilling Seal  
+C: Res Ploy 3  
+S: Atk Ploy 3  
+  
+Ephraim (LL) (5*+10 +atk -hp)  
+Weapon: Flame Siegmund  
+Special: Galeforce  
+A: Death Blow 4  
+B: Solar Brace  
+S: Heavy Blade 3  
+  
+Hector (LA) (5*+10 +atk -spd)  
+Weapon: Berserk Armads  
+Special: Aether  
+A: Death Blow 4  
+B: Wary Fighter 3  
+S: Close Def 3  
+Upgrade Path: 5  
+  
+Hector (LA) (5*+10 +atk -spd)  
+Weapon: Berserk Armads  
+Special: Aether  
+A: Death Blow 4  
+B: Bold Fighter 3  
+S: Quick Riposte 3  
+Upgrade Path: 5  
+  
+Hector (LA) (5*+10 +atk -spd)  
+Weapon: Berserk Armads  
+Special: Aether  
+A: Death Blow 4  
+B: Wrath 3  
+S: Quick Riposte 3  
+Upgrade Path: 5  
+  
+Robin(M) (FH) (5*+10 +atk -spd)  
+Weapon: Expiration  
+Special: Aether  
+A: Death Blow 4  
+B: Bold Fighter 3  
+S: Quick Riposte 3  
+  
+Robin(M) (FH) (5*+10 +atk -spd)  
+Weapon: Dark Breath+  
+Special: Aether  
+A: Distant Counter  
+B: Wary Fighter 3  
+S: Heavy Blade 3  
+Upgrade Path: 3  
+  
+Lissa (WE) (5*+10 +atk -res)  
+Weapon: Slaying Hammer+  
+Special: Aether  
+A: Death Blow 4  
+B: Bold Fighter 3  
+S: Quick Riposte 3  
+Upgrade Path: 1  
+  
+Hector (MO) (5*+10 +atk -spd)  
+Weapon: Thunder Armads  
+Special: Aether  
+A: Death Blow 4  
+B: Bold Fighter 3  
+C: Ostia's Pulse  
+S: Quick Riposte 3  
+  
+Hector (MO) (5*+10 +atk -spd)  
+Weapon: Slaying Hammer+  
+Special: Aether  
+A: Death Blow 4  
+B: Bold Fighter 3  
+C: Ostia's Pulse  
+S: Quick Riposte 3  
+Upgrade Path: 1  
+  
+Ephraim (Brave) (5*+10 +res -hp)  
+Weapon: Garm  
+Special: Aether  
+A: Death Blow 4  
+B: Special Fighter 3  
+C: Armor March 3  
+S: Quick Riposte 3  
+Upgrade Path: 5  
+  
+Hector (Brave) (5*+10 +def -spd)  
+Weapon: Maltet  
+Special: Aether  
+A: Ostian Counter  
+B: Bold Fighter 3  
+C: Odd Atk Wave 3  
+S: Quick Riposte 3  
+Upgrade Path: 5  
+  
+Marth (HK) (5*+10 +spd -res)  
+Weapon: Exalted Falchion  
+Special: Fire Emblem  
+A: Death Blow 4  
+B: Binding Shield  
+C: Odd Atk Wave 3  
+S: Close Def 3  
+  
+Lissa (WE) (5*+10 +atk -res)  
+Weapon: Slaying Hammer+  
+Special: Aether  
+A: Distant Counter  
+B: Bold Fighter 3  
+S: Quick Riposte 3  
+Upgrade Path: 1  
+  
+Robin(M) (WE) (5*+10 +res -def)  
+Weapon: Tannenboom!+  
+Special: Aether  
+A: Distant Counter  
+B: Bold Fighter 3  
+C: Armor March 3  
+S: Quick Riposte 3  
+Upgrade Path: 2  
+  
+Ephraim (LL) (5*+10 +atk -hp)  
+Weapon: Flame Siegmund  
+Special: Galeforce  
+A: Distant Counter  
+B: Solar Brace  
+S: Heavy Blade 3  
+  
+Hector (LA) (5*+10 +atk -spd)  
+Weapon: Berserk Armads  
+Special: Aether  
+A: Distant Counter  
+B: Wary Fighter 3  
+S: Close Def 3  
+Upgrade Path: 5  
+  
+Hector (LA) (5*+10 +atk -spd)  
+Weapon: Berserk Armads  
+Special: Aether  
+A: Distant Counter  
+B: Bold Fighter 3  
+S: Quick Riposte 3  
+Upgrade Path: 5  
+  
+Hector (LA) (5*+10 +atk -spd)  
+Weapon: Berserk Armads  
+Special: Aether  
+A: Distant Counter  
+B: Wrath 3  
+S: Quick Riposte 3  
+Upgrade Path: 5  
+  
+Hector (MO) (5*+10 +atk -spd)  
+Weapon: Thunder Armads  
+Special: Aether  
+A: Distant Counter  
+B: Bold Fighter 3  
+C: Ostia's Pulse  
+S: Quick Riposte 3  
+  
+Ephraim (Brave) (5*+10 +res -hp)  
+Weapon: Garm  
+Special: Aether  
+A: Distant Counter  
+B: Special Fighter 3  
+C: Armor March 3  
+S: Quick Riposte 3  
+Upgrade Path: 5  
+  
+Marth (HK) (5*+10 +spd -res)  
+Weapon: Exalted Falchion  
+Special: Fire Emblem  
+A: Distant Counter  
+B: Binding Shield  
+C: Odd Atk Wave 3  
+S: Close Def 3  
+  
+Alfonse (RS) (5*+10 +atk)  
+Weapon: Imbued Koma  
+Special: Open the Future  
+A: Close Counter  
+B: Special Spiral 3  
+C: Pulse Smoke 3  
+S: Mystic Boost 3  
+  
+Alm (5*+10 +atk)  
+Weapon: Falchion  
+Special: Ruptured Sky  
+A: Atk Spd Push 4  
+B: Null Follow Up 3  
+C: Time's Pulse 3  
+S: Mystic Boost 3  
+Upgrade Path: 5  
+  
+Alm (BE) (5*+10 +spd)  
+Weapon: Dracofalchion  
+Special: Ruptured Sky  
+A: Scendscale  
+B: Null Follow Up 3  
+C: Time's Pulse 3  
+S: Mystic Boost 3  
+  
+Alm (LG) (5*+10 +spd)  
+Weapon: Scepter of Love  
+Special: Lunar Flash  
+A: Distant Counter  
+B: Spurn 3  
+C: Time's Pulse 3  
+S: Mystic Boost 3  
+  
+Alm (SK) (5*+10 +spd)  
+Weapon: Luna Arc  
+Special: Lunar Flash  
+A: Atk Spd Push 4  
+B: Null Follow Up 3  
+C: Time's Pulse 3  
+S: Swift Sparrow 2  
+  
+Altina (5*+10 +atk)  
+Weapon: Ragnell-Alondite  
+Special: Twin Blades  
+A: Ashera's Chosen  
+B: Vantage 3  
+C: Atk Def Rein 3  
+S: Mirror Stance 2  
+  
+Altina (FM) (5*+10 +atk)  
+Weapon: Ragnell-Alondite  
+Special: Twin Blades  
+A: Mirror Stance 3  
+B: Null C-Disrupt 3  
+C: Pulse Smoke 3  
+S: Mirror Stance 2  
+  
+Ashnard (DB) (5*+10 +atk)  
+Weapon: Gurgurant  
+Special: Ruptured Sky  
+A: Distant Counter  
+B: Wyvern Flight 3  
+C: Atk Def Rein 3  
+S: Mystic Boost 3  
+  
+Astram (5*+10 +spd)  
+Weapon: Mercurius  
+Special: Ruptured Sky  
+A: Distant Counter  
+B: Spurn 3  
+C: Joint Drive Atk  
+S: Mystic Boost 3  
+  
+Ayra (5*+10 +spd)  
+Weapon: Ayra's Blade  
+Special: Regnal Astra  
+A: Distant Counter  
+B: Spurn 3  
+C: Time's Pulse 3  
+S: Mystic Boost 3  
+Upgrade Path: 5  
+  
+Black Knight (5*+10 +spd)  
+Weapon: Alondite  
+Special: Black Luna  
+A: Fierce Breath  
+B: Bold Fighter 3  
+C: AD Near Save 3  
+S: Quick Riposte 3  
+  
+Bramimond (5*+10 +atk)  
+Weapon: Void Tome  
+Special: Ruptured Sky  
+A: Atk Def Push 4  
+B: Lull Atk Res 3  
+C: Impenetrable Dark  
+S: Atk Def Solo 3  
+  
+Caeda (TSA) (5*+10 +atk)  
+Weapon: Feather Sword  
+Special: Ruptured Sky  
+A: Distant Counter  
+B: Belief in Love  
+C: Spd Def Rein 3  
+S: Atk Spd Solo 3  
+  
+Caineghis (5*+10 +res)  
+Weapon: Lion King Fang  
+Special: Bonfire  
+A: Distant Def 4  
+B: Special Fighter 3  
+C: AR Far Save 3  
+S: Quick Riposte 3  
+  
+Catherine (5*+10 +spd)  
+Weapon: Thunderbrand  
+Special: Galeforce  
+A: Swift Sparrow 3  
+B: Lull Spd Def 3  
+C: Time's Pulse 3  
+S: Flashing Blade 3  
+  
+Celica (Brave) (5*+10 +spd)  
+Weapon: Royal Sword  
+Special: Galeforce  
+A: R Duel Infantry 4  
+B: Double Lion  
+S: Swift Sparrow 2  
+Upgrade Path: 5  
+  
+Celica (QV) (5*+10 +spd)  
+Weapon: Saintly Seraphim  
+Special: Ruptured Sky  
+A: Swift Sparrow 3  
+B: Soul of Zofia  
+C: Time's Pulse 3  
+S: Swift Sparrow 2  
+  
+Chrom (CE) (5*+10 +spd)  
+Weapon: Randgridr  
+Special: Ruptured Sky  
+A: Atk Spd Push 4  
+B: Lull Atk Spd 3  
+C: Time's Pulse 3  
+S: Swift Sparrow 2  
+  
+Chrom (CE) (5*+10 +atk)  
+Weapon: Randgridr  
+Special: Ruptured Sky  
+A: Close Counter  
+B: Lull Atk Def 3  
+C: Panic Smoke 3  
+S: Quick Riposte 3  
+  
+Claude (Brave) (5*+10 +spd)  
+Weapon: Wind Parthia  
+Special: Ruptured Sky  
+A: Atk Spd Push 4  
+B: SR Far Trace 3  
+C: Atk Spd Rein 3  
+S: Iote's Shield  
+  
+Claude (Brave) (5*+10 +spd)  
+Weapon: Wind Parthia  
+Special: Ruptured Sky  
+A: Close Counter  
+B: SR Far Trace 3  
+C: Atk Spd Rein 3  
+S: Iote's Shield  
+  
+Claude (KU) (5*+10 +spd)  
+Weapon: Failnaught  
+Special: Ruptured Sky  
+A: Atk Spd Catch 4  
+B: Fallen Star  
+C: Spd Def Rein 3  
+S: Iote's Shield  
+  
+Corrin(F) (CD) (5*+10 +res)  
+Weapon: Primordial Breath  
+Special: Negating Fang  
+A: Distant Counter  
+B: Dragon Wall 3  
+C: Time's Pulse 3  
+S: Mystic Boost 3  
+  
+Corrin(F) (CD) (5*+10 +spd)  
+Weapon: Primordial Breath  
+Special: Negating Fang  
+A: Distant Counter  
+B: Shield Pulse 3  
+C: Joint Drive Atk  
+S: Mystic Boost 3  
+  
+Dheginsea (DH) (5*+10 +atk)  
+Weapon: Lightning Breath+  
+Special: Bonfire  
+A: Mirror Stance 3  
+B: Dragon Wall 3  
+C: AR Far Save 3  
+S: Quick Riposte 3  
+Upgrade Path: 4  
+  
+Dimitri (Brave) (5*+10 +def)  
+Weapon: Moon Gradivus  
+Special: Ruptured Sky  
+A: Distant Counter  
+B: Blue Lion Rule  
+C: Time's Pulse 3  
+S: Mystic Boost 3  
+  
+Dimitri (SK) (5*+10 +spd)  
+Weapon: Areadbhar  
+Special: Ruptured Sky  
+A: Distant Counter  
+B: Atrocity  
+C: Odd Tempest 3  
+S: Mystic Boost 3  
+  
+Edelgard (Brave) (5*+10 +atk)  
+Weapon: Flower Hauteclere  
+Special: Ruptured Sky  
+A: Distant Counter  
+B: Black Eagle Rule  
+C: AR Far Save 3  
+S: Mystic Boost 3  
+  
+Edelgard (FE) (5*+10 +atk)  
+Weapon: Aymr  
+Special: Galeforce  
+A: Distant Counter  
+B: Raging Storm  
+C: AR Far Save 3  
+S: Heavy Blade 3  
+  
+Echidna (5*+10 +spd)  
+Weapon: Deck Swabber+  
+Special: Ruptured Sky  
+A: Distant Counter  
+B: Spurn 3  
+C: Time's Pulse 3  
+S: Atk Spd Solo 3  
+Upgrade Path: 2  
+  
+Eirika (CE) (5*+10 +spd)  
+Weapon: Blade of Renais  
+Special: Ruptured Sky  
+A: Distant Counter  
+B: Null Follow Up 3  
+C: Joint Drive Spd  
+S: Mystic Boost 3  
+  
+Eliwood (5*+10 +spd)  
+Weapon: Blazing Durandal  
+Special: Galeforce  
+A: Fury 4  
+C: Fatal Smoke 3  
+S: Swift Sparrow 2  
+Upgrade Path: 5  
+  
+Ena (DH) (5*+10 +spd)  
+Weapon: Lightning Breath+  
+Special: Aether  
+A: Mirror Stance 3  
+B: Dragon Wall 3  
+C: Pulse Smoke 3  
+S: Quick Riposte 3  
+Upgrade Path: 4  
+  
+Ena (DH) (5*+10 +spd)  
+Weapon: Lightning Breath+  
+Special: Aether  
+A: Mirror Stance 3  
+B: Dragon's Ire 3  
+C: Pulse Smoke 3  
+S: Mystic Boost 3  
+Upgrade Path: 1  
+  
+Ephraim (DM) (5*+10 +atk)  
+Weapon: Reginleif  
+Special: Galeforce  
+A: Heavy Blade 4  
+B: Lull Atk Def 3  
+C: Panic Smoke 3  
+S: Atk Spd Solo 3  
+  
+Farina (5*+10 +spd)  
+Weapon: Hotshot Lance  
+Special: Ruptured Sky  
+A: Atk Spd Catch 4  
+B: Pegasus Flight 3  
+C: Atk Def Rein 3  
+S: Swift Sparrow 2  
+  
+Farina (5*+10)  
+Weapon: Hotshot Lance  
+A: Atk Spd Catch 4  
+B: Atk Spd Snag 3  
+C: Atk Def Rein 3  
+  
+Felicia (SP) (5*+10 +spd)  
+Weapon: Eldhrimnir  
+Special: Ruptured Sky  
+A: Distant Counter  
+B: Crafty Fighter 3  
+C: AR Far Save 3  
+S: Spd Def Solo 3  
+  
+Felix (FM) (5*+10 +spd)  
+Weapon: Spendthrift Bow+  
+Special: Ruptured Sky  
+A: Close Foil  
+B: Crafty Fighter 3  
+C: AR Far Save 3  
+S: Spd Res Solo 3  
+Upgrade Path: 2  
+  
+Fjorm (5*+10 +spd)  
+Weapon: Leiptr  
+Special: Ice Mirror 2  
+A: Fury 4  
+B: Spurn 3  
+C: Time's Pulse 3  
+S: Mystic Boost 3  
+  
+Flame Emperor (5*+10 +def)  
+Weapon: Wo Gun+  
+Special: Ruptured Sky  
+A: Distant Counter  
+B: Special Fighter 3  
+C: AR Far Save 3  
+S: Quick Riposte 3  
+Upgrade Path: 3  
+  
+Flora (SP) (5*+10 +atk)  
+Weapon: Saehrimnir  
+Special: Iceberg  
+A: Atk Res Push 4  
+B: Bold Fighter 3  
+C: Armor March 3  
+S: Atk Res Bond 3  
+  
+Freyja (5*+10 +spd)  
+Weapon: Nightmare Horn  
+Special: Galeforce  
+A: Atk Spd Solo 4  
+B: Binding Necklace  
+C: Pulse Smoke 3  
+S: Atk Spd Solo 3  
+  
+Gustav (LK) (5*+10 +atk)  
+Weapon: Loyalist Axe  
+Special: Ignis  
+A: Close Def 4  
+B: Crafty Fighter 3  
+C: DR Near Save 3  
+S: Atk Def Bond 3  
+  
+Hana (IM) (5*+10 +spd)  
+Weapon: Deck Swabber+  
+Special: Ruptured Sky  
+A: Distant Counter  
+B: Spurn 3  
+C: Time's Pulse 3  
+S: Atk Spd Solo 3  
+Upgrade Path: 2  
+  
+Hector (Brave) (5*+10 +atk)  
+Weapon: Maltet  
+Special: Bonfire  
+A: Ostian Counter  
+B: Special Fighter 3  
+C: AR Far Save 3  
+S: Quick Riposte 3  
+Upgrade Path: 5  
+  
+Hilda (FM) (5*+10 +spd)  
+Weapon: Flowing Lance+  
+Special: Aether  
+A: Distant Counter  
+B: Special Fighter 3  
+C: AR Far Save 3  
+S: Spd Res Solo 3  
+Upgrade Path: 2  
+  
+Idunn (FF) (5*+10 +res)  
+Weapon: Zephyr Breath  
+Special: Aether  
+A: Distant Counter  
+B: Dragon Wall 3  
+C: AR Far Save 3  
+S: Quick Riposte 3  
+  
+Idunn (5*+10 +res)  
+Weapon: Demonic Breath  
+Special: Aether  
+A: Distant Counter  
+B: Dragon Wall 3  
+C: AR Far Save 3  
+S: Quick Riposte 3  
+  
+Ike (Brave) (5*+10 +spd)  
+Weapon: Urvan  
+Special: Aether  
+A: Distant Counter  
+B: Null Follow Up 3  
+C: Pulse Smoke 3  
+S: Spd Res Solo 3  
+Upgrade Path: 5  
+  
+Ike (DB) (5*+10 +spd)  
+Weapon: Chaos Ragnell  
+Special: Mayhem Aether  
+A: Mirror Stance 3  
+B: Spurn 3  
+C: Pulse Smoke 3  
+S: Atk Spd Solo 3  
+  
+Ilyana (5*+10 +spd)  
+Weapon: Blarfox+  
+Special: Ruptured Sky  
+A: Atk Spd Push 4  
+B: Lull Spd Res 3  
+C: Time's Pulse 3  
+S: Swift Sparrow 2  
+Upgrade Path: 2  
+  
+Ingrid (5*+10 +spd)  
+Weapon: Luin  
+Special: Ruptured Sky  
+A: Atk Spd Solo 4  
+B: Lull Spd Def 3  
+C: Fatal Smoke 3  
+S: Atk Spd Solo 3  
+  
+Innes (CE) (5*+10 +spd)  
+Weapon: Bow of Frelia  
+Special: Ruptured Sky  
+A: Close Foil  
+B: Null Follow Up 3  
+C: Time's Pulse 3  
+S: Mystic Boost 3  
+  
+Innes (CE) (5*+10 +spd)  
+Weapon: Bow of Frelia  
+Special: Ruptured Sky  
+A: Sturdy Impact  
+B: Null Follow Up 3  
+C: Time's Pulse 3  
+S: Atk Spd Solo 3  
+  
+Innes (CE) (5*+10 +spd)  
+Weapon: Spendthrift Bow+  
+Special: Ruptured Sky  
+A: Close Foil  
+B: Null Follow Up 3  
+C: Time's Pulse 3  
+S: Mystic Boost 3  
+Upgrade Path: 2  
+  
+Ishtar (5*+10 +spd)  
+Weapon: Mjolnir  
+Special: Ruptured Sky  
+A: Swift Sparrow 3  
+B: Windsweep 3  
+C: Time's Pulse 3  
+S: Swift Sparrow 2  
+Upgrade Path: 5  
+  
+Itsuki (5*+10 +spd)  
+Weapon: Mirage Falchion  
+Special: Aether  
+A: Distant Counter  
+B: Spurn 3  
+C: Joint Drive Spd  
+S: Atk Spd Solo 3  
+  
+Faye (LG) (5*+10 +atk)  
+Weapon: Brave Bow+  
+Special: Ruptured Sky  
+A: Death Blow 4  
+B: Bold Fighter 3  
+C: AR Far Save 3  
+S: Death Blow 3  
+  
+Faye (LG) (5*+10 +def)  
+Weapon: Spendthrift Bow+  
+Special: Noontime  
+A: Close Foil  
+B: Crafty Fighter 3  
+C: AR Far Save 3  
+S: Atk Def Solo 3  
+Upgrade Path: 1  
+  
+Julia (CL) (5*+10 +atk)  
+Weapon: Virtuous Naga  
+Special: Ruptured Sky  
+A: Mirror Impact  
+B: Light and Dark  
+C: Time's Pulse 3  
+S: Death Blow 3  
+  
+Julia (CL) (5*+10 +spd)  
+Weapon: Virtuous Naga  
+Special: Ruptured Sky  
+A: Swift Sparrow 3  
+B: Light and Dark  
+C: Time's Pulse 3  
+S: Swift Sparrow 2  
+  
+Julia (DB) (5*+10 +atk)  
+Weapon: Dark Scripture  
+Special: Ruptured Sky  
+A: Atk Res Solo 4  
+B: Light and Dark  
+C: Panic Smoke 3  
+S: Atk Spd Solo 3  
+  
+Kagero (5*+10 +atk)  
+Weapon: Kagero's Dart  
+Special: Draconic Aura  
+A: Sturdy Impact  
+B: Special Spiral 3  
+C: Time's Pulse 3  
+S: Hardy Bearing 3  
+Upgrade Path: 5  
+  
+Kagero (LB) (5* +atk)  
+Weapon: Bottled Juice+  
+Special: Draconic Aura  
+A: Death Blow 4  
+B: Bold Fighter 3  
+C: AR Far Save 3  
+S: Death Blow 3  
+Upgrade Path: 1  
+  
+Kana(F) (5* +res)  
+Weapon: Sun Dragonstone  
+Special: Aether  
+A: Distant Counter  
+B: Dragon Wall 3  
+C: Joint Drive Spd  
+S: Quick Riposte 3  
+Upgrade Path: 5  
+  
+Karel (5* +spd)  
+Weapon: Nameless Blade  
+Special: Ruptured Sky  
+A: Distant Counter  
+B: Spurn 3  
+C: Time's Pulse 3  
+S: Atk Spd Solo 3  
+Upgrade Path: 5  
+  
+Kempf (5* +spd)  
+Weapon: Venin Edge  
+Special: Aegis  
+A: Fury 4  
+C: Savage Blow 3  
+S: Poison Strike 3  
+  
+Kronya (5* +spd)  
+Weapon: Athame  
+Special: Miracle  
+A: Close Counter  
+B: Null C-Disrupt 3  
+S: Flashing Blade 3  
+  
+Larcei (5* +spd)  
+Weapon: Larcei's Edge  
+Special: Regnal Astra  
+A: Distant Counter  
+B: Spurn 3  
+C: Panic Smoke 3  
+S: Atk Spd Solo 3  
+  
+Larcei (5* +spd)  
+Weapon: Larcei's Edge  
+Special: Regnal Astra  
+A: Atk Def Solo 4  
+B: Spurn 3  
+C: Panic Smoke 3  
+S: Atk Spd Solo 3  
+  
+Laslow (5* +atk)  
+Weapon: Laslow's Blade  
+Special: Ruptured Sky  
+A: Distant Counter  
+B: Vantage 3  
+C: Joint Hone Atk  
+S: Fierce Stance 3  
+Upgrade Path: 5  
+  
+Leif (UT) (5* +atk)  
+Weapon: Meisterbogen  
+Special: Njorun's Zeal  
+A: Heavy Blade 4  
+B: Lull Atk Def 3  
+C: Def Smoke 3  
+S: Death Blow 3  
+  
+Lewyn (5* +spd)  
+Weapon: Forseti  
+Special: Ruptured Sky  
+A: Swift Sparrow 3  
+B: Lull Spd Res 3  
+C: Time's Pulse 3  
+S: Swift Sparrow 2  
+Upgrade Path: 5  
+  
+Lif (5* +atk)  
+Weapon: Sokkvabekkr  
+Special: Open the Future  
+A: Distant Counter  
+B: Deadly Balance  
+C: Time's Pulse 3  
+S: Atk Spd Solo 3  
+  
+Lif (LK) (5* +atk)  
+Weapon: Thjalfi  
+Special: Ruptured Sky  
+A: Atk Def Push 4  
+B: Lull Atk Res 3  
+C: Fatal Smoke 3  
+S: Death Blow 3  
+  
+Lilina (5* +atk)  
+Weapon: Forblaze  
+Special: Ruptured Sky  
+A: Death Blow 4  
+B: Lull Atk Res 3  
+C: Time's Pulse 3  
+S: Death Blow 3  
+Upgrade Path: 5  
+  
+Lilina (FL) (5* +atk)  
+Weapon: Studied Forblaze  
+Special: Gifted Magic  
+A: Life and Death 4  
+B: Lull Atk Res 3  
+C: Pulse Smoke 3  
+S: Life and Death 3  
+  
+Lucina (5* +spd)  
+Weapon: Sealed Falchion  
+Special: Ruptured Sky  
+A: Distant Counter  
+B: Spurn 3  
+C: Time's Pulse 3  
+S: Atk Spd Solo 3  
+Upgrade Path: 5  
+  
+Lyn (Brave) (5* +spd)  
+Weapon: Mulagir  
+Special: Deadeye  
+A: Swift Sparrow 3  
+B: Sacae's Blessing  
+C: Pulse Smoke 3  
+S: Swift Sparrow 2  
+Upgrade Path: 5  
+  
+Lyn (IM) (5* +spd)  
+Weapon: Tailwind Shuriken  
+Special: Moonbow  
+A: Swift Sparrow 3  
+B: SR Far Trace 3  
+C: Spd Def Rein 3  
+S: Swift Sparrow 2  
+  
+Lyon (CE) (5* +atk)  
+Weapon: Tome of Grado  
+Special: Ruptured Sky  
+A: Sturdy Stance 3  
+B: Null C-Disrupt 3  
+C: Pulse Smoke 3  
+S: Quick Riposte 3  
+  
+Lyon (DB) (5* +atk)  
+Weapon: Blood Tome  
+Special: Noontime  
+A: Sturdy Stance 3  
+B: Null C-Disrupt 3  
+C: Pulse Smoke 3  
+S: Quick Riposte 3  
+  
+Lysithea (5* +atk)  
+Weapon: Hades O  
+Special: Moonbow  
+A: Death Blow 4  
+B: Lull Spd Res 3  
+C: Time's Pulse 3  
+S: Death Blow 3  
+  
+Lysithea (Brave) (5* +spd)  
+Weapon: Dark Spikes T  
+Special: Moonbow  
+A: Atk Spd Push 4  
+B: Lull Spd Res 3  
+C: Hone Spd 4  
+S: Swift Sparrow 2  
+  
+Mareeta (5* +spd)  
+Weapon: Mareeta's Sword  
+Special: Ruptured Sky  
+A: Atk Spd Solo 3  
+B: Spurn 3  
+C: Pulse Smoke 3  
+S: Atk Spd Solo 3  
+  
+Mareeta (DW) (5* +spd)  
+Weapon: Shadow Sword  
+Special: Ruptured Sky  
+A: Swift Sparrow 3  
+B: Null Follow Up 3  
+C: Pulse Smoke 3  
+S: Swift Sparrow 2  
+  
+Marianne (5* +atk)  
+Weapon: Icy Fimbulvetr  
+Special: Ruptured Sky  
+A: Death Blow 4  
+B: Lull Atk Res 3  
+C: Time's Pulse 3  
+S: Death Blow 3  
+  
+Marth (GG) (5* +spd)  
+Weapon: Tanngrisnir  
+Special: Fire Emblem  
+A: Swift Sparrow 3  
+B: Daring Fighter 3  
+C: Joint Hone Spd  
+S: Swift Sparrow 2  
+  
+Marth (TSA) (5* +spd)  
+Weapon: Rapier  
+Special: Hero's Blood  
+A: Distant Counter  
+B: Spurn 3  
+C: Time's Pulse 3  
+S: Mystic Boost 3  
+  
+Merric (TSA) (5* +spd)  
+Weapon: Winds of Change  
+Special: Righteous Wind  
+A: Swift Sparrow 3  
+B: Windsweep 3  
+C: Time's Pulse 3  
+S: Swift Sparrow 2  
+  
+Micaiah (5* +atk)  
+Weapon: Thani  
+Special: Ruptured Sky  
+A: Heavy Blade 4  
+B: Lull Atk Res 3  
+C: Time's Pulse 3  
+S: Death Blow 3  
+Upgrade Path: 5  
+  
+Micaiah (FH) (5* +atk)  
+Weapon: Dawn Suzu  
+Special: Ruptured Sky  
+A: Death Blow 4  
+B: Lull Atk Res 3  
+C: Time's Pulse 3  
+S: Hardy Bearing 3  
+  
+Morgan(M) (5* +spd)  
+Weapon: Grima's Truth  
+Special: Ruptured Sky  
+A: Fury 4  
+B: Lull Spd Res 3  
+C: Panic Smoke 3  
+S: Quick Riposte 3  
+Upgrade Path: 5  
+  
+Myrrh (5* +def)  
+Weapon: Great Flame  
+Special: Bonfire  
+A: Distant Counter  
+B: Dragon's Ire 3  
+C: Atk Res Rein 3  
+S: Iote's Shield  
+Upgrade Path: 5  
+  
+Myrrh (WR) (5* +res)  
+Weapon: Lilac-Jade Breath  
+Special: Noontime  
+A: Distant Counter  
+B: Dragon's Ire 3  
+C: Atk Res Rein 3  
+S: Iote's Shield  
+  
+Nagi (5* +def)  
+Weapon: Ethereal Breath  
+Special: Sol  
+A: Distant Counter  
+B: Special Fighter 3  
+C: AR Far Save 3  
+S: Mirror Stance 2  
+  
+Ophelia (5* +atk)  
+Weapon: Missiletainn  
+Special: Blazing Light  
+A: Life and Death 4  
+B: Lull Spd Res 3  
+C: Fatal Smoke 3  
+S: Life and Death 3  
+  
+Pent (5* +atk)  
+Weapon: Tome of Reglay  
+Special: Ruptured Sky  
+A: Death Blow 4  
+B: Lull Atk Res 3  
+C: Time's Pulse 3  
+S: Death Blow 3  
+  
+Reinhardt (5* +atk)  
+Weapon: Dire Thunder  
+Special: Moonbow  
+A: Death Blow 4  
+B: Lull Atk Res 3  
+C: Pulse Smoke 3  
+S: Death Blow 3  
+  
+Robin(F) (FV) (5* +res)  
+Weapon: Expiration  
+Special: Aether  
+A: Dragonskin  
+B: Dragon Wall 3  
+C: Atk Res Rein 3  
+S: Mystic Boost 3  
+  
+Robin(F) (DH) (5* +atk)  
+Weapon: Moonless Breath  
+Special: Aether  
+A: Dragonscale  
+B: Dragon's Ire 3  
+C: Atk Res Rein 3  
+S: Mystic Boost 3  
+  
+Robin(M) (FH) (5* +res)  
+Weapon: Expiration  
+Special: Aether  
+A: Atk Res Unity  
+B: Special Fighter 3  
+C: Ward Dragons  
+S: Quick Riposte 3  
+  
+Seiros (5* +def)  
+Weapon: Aurora Breath  
+Special: Glacies  
+A: Mirror Impact  
+B: Dragon Wall 3  
+C: Wings of Light  
+S: Mystic Boost 3  
+  
+Seliph (SL) (5* +atk)  
+Weapon: Virtuous Tyrfing  
+Special: Ignis  
+A: Distant Counter  
+B: Holy War's End  
+C: Joint Hone Def  
+S: Mystic Boost 3  
+  
+Severa (WR) (5* +spd)  
+Weapon: Gullinkambi Egg  
+Special: Moonbow  
+A: Swift Sparrow 3  
+B: Lull Spd Res 3  
+C: Joint Hone Atk  
+S: Swift Sparrow 2  
+  
+Shamir (5* +spd)  
+Weapon: Survivalist Bow  
+Special: Deadeye  
+A: Atk Spd Solo 4  
+B: Null Follow Up 3  
+C: Time's Pulse 3  
+S: Atk Spd Solo 3  
+  
+Shinon (5* +spd)  
+Weapon: Double Bow  
+Special: Deadeye  
+A: Atk Def Solo 4  
+B: Lull Atk Spd 3  
+C: Time's Pulse 3  
+S: Atk Spd Solo 3  
+  
+Sothis (5* +spd)  
+Weapon: Sublime Surge  
+Special: Sirius  
+A: Atk Spd Solo 3  
+B: Null Follow Up 3  
+C: Time's Pulse 3  
+S: Atk Spd Solo 3  
+  
+Sothis (GG) (5* +spd)  
+Weapon: Snow's Grace  
+Special: Sirius  
+A: Distant Counter  
+B: Dragon Wall 3  
+C: AR Far Save 3  
+S: Quick Riposte 3  
+  
+Thrasir (5* +spd)  
+Weapon: Ifingr  
+Special: Moonbow  
+A: Flashing Blade 4  
+B: Killing Intent  
+C: Panic Smoke 3  
+S: Swift Sparrow 2  
+  
+Tibarn (5* +atk)  
+Weapon: Hawk King Claw  
+Special: Galeforce  
+A: Sturdy Impact  
+B: Dive-Bomb 3  
+C: Atk Def Rein 3  
+S: Heavy Blade 3  
+  
+Tibarn (PP) (5* +atk)  
+Weapon: Sky-Pirate Claw  
+Special: Galeforce  
+A: Heavy Blade 4  
+B: Dive-Bomb 3  
+C: Atk Def Rein 3  
+S: Death Blow 3  
+  
+Tiki (LD) (5* +res)  
+Weapon: Divine Mist  
+Special: Aether  
+A: Mirror Stance 3  
+B: Dragon Wall 3  
+C: With Everyone  
+S: Quick Riposte 3  
+  
+Tiki(Y) (DW) (5* +res)  
+Weapon: Razing Breath  
+Special: Aether  
+A: Mirror Stance 3  
+B: Dragon Wall 3  
+C: Solitary Dream  
+S: Quick Riposte 3  
+  
+Veronica (Brave) (5* +spd)  
+Weapon: Hlidskjalf  
+Special: Windfire Balm+  
+A: Atk Spd Push 4  
+B: Wrathful Staff 3  
+C: Joint Drive Atk  
+S: Atk Spd Solo 3  
+Upgrade Path: 5  
+  
