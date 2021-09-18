@@ -1,76 +1,10 @@
-ENEMIES - CUSTOM LIST  
-Zelgius (5*+10 +spd)  
-Weapon: Alondite  
-Special: Black Luna  
-A: Steady Breath  
-B: Warp Powder  
-C: AR Far Save 3  
-S: Quick Riposte 3  
-  
-Zelgius (5*+10 +spd)  
-Weapon: Alondite  
-Special: Black Luna  
-A: Death Blow 4  
-B: Bold Fighter 3  
-S: Quick Riposte 3  
-  
-Zelgius (5*+10 +spd -res)  
-Weapon: Armorsmasher+  
-Special: Black Luna  
-A: Death Blow 4  
-B: Warp Powder  
-S: Quick Riposte 3  
-Upgrade Path: 2  
-  
-Zelgius (5*+10 +spd -res)  
-Weapon: Slaying Edge+  
-Special: Black Luna  
-A: Steady Breath  
-B: Warp Powder  
-S: Quick Riposte 3  
-Upgrade Path: 2  
-  
-Lissa (WE) (5*+10 +atk -res)  
-Weapon: Slaying Hammer+  
-Special: Aether  
-A: Death Blow 4  
-B: Bold Fighter 3  
-S: Quick Riposte 3  
-Upgrade Path: 1  
-  
+ENEMIES - CUSTOM LIST     
 Hardin (FH) (5*+10 +atk -res)  
 Weapon: Gradivus  
 Special: Aether  
 A: Death Blow 4  
 B: Bold Fighter 3  
 S: Quick Riposte 3  
-  
-Robin(M) (WE) (5*+10 +res -def)  
-Weapon: Tannenboom!+  
-Special: Aether  
-A: Death Blow 4  
-B: Bold Fighter 3  
-C: Armor March 3  
-S: Quick Riposte 3  
-Upgrade Path: 2  
-  
-Robin(M) (WE) (5*+10 +res -def)  
-Weapon: Slaying Spear+  
-Special: Aether  
-A: Death Blow 4  
-B: Bold Fighter 3  
-C: Armor March 3  
-S: Quick Riposte 3  
-Upgrade Path: 2  
-  
-Robin(M) (WE) (5*+10 +res -def)  
-Weapon: Tannenboom!+  
-Special: Aether  
-A: Death Blow 4  
-B: Bold Fighter 3  
-C: Armor March 3  
-S: Quick Riposte 3  
-Upgrade Path: 2  
   
 Fjorm (5*+10 +spd -def)  
 Weapon: Leiptr  
@@ -515,7 +449,23 @@ A: Distant Counter
 B: Raging Storm  
 C: AR Far Save 3  
 S: Heavy Blade 3  
-  
+
+Edelgard (FW) (5*+10 +atk)  
+Weapon: Twin-Crest Power  
+Special: Bonfire  
+A: Atk Def Ideal 4  
+B: Armored Wall  
+C: Armored Stride 3  
+S: Mystic Boost 3  
+
+Edelgard (FW) (5*+10 +atk)  
+Weapon: Twin-Crest Power  
+Special: Bonfire  
+A: Svalinn Shield  
+B: Armored Wall  
+C: Armored Stride 3  
+S: Mystic Boost 3  
+
 Echidna (5*+10 +spd)  
 Weapon: Deck Swabber+  
 Special: Ruptured Sky  
@@ -923,7 +873,15 @@ A: Life and Death 4
 B: Lull Atk Res 3  
 C: Pulse Smoke 3  
 S: Life and Death 3  
-  
+
+Lissa (WE) (5*+10 +atk -res)  
+Weapon: Slaying Hammer+  
+Special: Aether  
+A: Death Blow 4  
+B: Bold Fighter 3  
+S: Quick Riposte 3  
+Upgrade Path: 1  
+
 Lucina (5* +spd)  
 Weapon: Sealed Falchion  
 Special: Ruptured Sky  
@@ -1128,6 +1086,33 @@ A: Atk Res Unity
 B: Special Fighter 3  
 C: Ward Dragons  
 S: Quick Riposte 3  
+
+Robin(M) (WE) (5*+10 +res -def)  
+Weapon: Tannenboom!+  
+Special: Aether  
+A: Death Blow 4  
+B: Bold Fighter 3  
+C: Armor March 3  
+S: Quick Riposte 3  
+Upgrade Path: 2  
+  
+Robin(M) (WE) (5*+10 +res -def)  
+Weapon: Slaying Spear+  
+Special: Aether  
+A: Death Blow 4  
+B: Bold Fighter 3  
+C: Armor March 3  
+S: Quick Riposte 3  
+Upgrade Path: 2  
+  
+Robin(M) (WE) (5*+10 +res -def)  
+Weapon: Tannenboom!+  
+Special: Aether  
+A: Death Blow 4  
+B: Bold Fighter 3  
+C: Armor March 3  
+S: Quick Riposte 3  
+Upgrade Path: 2  
   
 Seiros (5* +def)  
 Weapon: Aurora Breath  
@@ -1234,3 +1219,33 @@ C: Joint Drive Atk
 S: Atk Spd Solo 3  
 Upgrade Path: 5  
   
+Zelgius (5*+10 +spd)  
+Weapon: Alondite  
+Special: Black Luna  
+A: Steady Breath  
+B: Warp Powder  
+C: AR Far Save 3  
+S: Quick Riposte 3  
+  
+Zelgius (5*+10 +spd)  
+Weapon: Alondite  
+Special: Black Luna  
+A: Death Blow 4  
+B: Bold Fighter 3  
+S: Quick Riposte 3  
+  
+Zelgius (5*+10 +spd -res)  
+Weapon: Armorsmasher+  
+Special: Black Luna  
+A: Death Blow 4  
+B: Warp Powder  
+S: Quick Riposte 3  
+Upgrade Path: 2  
+  
+Zelgius (5*+10 +spd -res)  
+Weapon: Slaying Edge+  
+Special: Black Luna  
+A: Steady Breath  
+B: Warp Powder  
+S: Quick Riposte 3  
+Upgrade Path: 2  
